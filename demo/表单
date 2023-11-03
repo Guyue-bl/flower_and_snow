@@ -1,0 +1,24 @@
+<!-- 文本框 --->
+<form action="">
+姓: <input type="text" name="姓"><br>
+名: <input type="text" name="名">
+</form>
+
+<!-- 单选 --->
+<form action="">
+<input type="radio" name="名字" value="男">男<br>
+<input type="radio" name="名字" value="女">女
+</form>
+
+<!-- 复选 --->
+<form action="">
+你喜欢玩什么游戏呀~
+<input type="checkbox" name="游戏" value="原">原！<br>
+<input type="checkbox" name="游戏" value="铁">铁！
+</form>
+
+<!-- 提交 --->
+<form name="input" action="这里要插入一个互动模块" method="get">
+最喜欢的动漫： <input type="text" name="动漫">
+<input type="submit" value="按钮的名字">
+</form>

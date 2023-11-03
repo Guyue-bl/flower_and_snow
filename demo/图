@@ -1,0 +1,9 @@
+<!-- 最简单的 --->
+<img src="图的本地路径，或者网页链接" alt="描述文本" width="宽度，比如320" height="高度，比如120" title="图名" />
+
+<!-- 给图加图注 --->
+
+<figure>
+  <img src="图的本地路径，或者网页链接" ... />
+  <figcaption>图注</figcaption>
+</figure>

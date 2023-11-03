@@ -1,0 +1,41 @@
+<!-- 水平标题 -->
+<table border="1">
+  <thead>
+    <tr>
+      <th>列标题1</th>
+      <th>列标题2</th>
+      <th>列标题3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>行1，列1</td>
+      <td>行1，列2</td>
+      <td>行1，列3</td>
+    </tr>
+    <tr>
+      <td>行2，列1</td>
+      <td>行2，列2</td>
+      <td>行2，列3</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 垂直标题 --!>
+<table border="1">
+<tr>
+  <th>行标题1</th>
+  <td>行1，列1</td>
+  <td>行1，列2</td>
+</tr>
+<tr>
+  <th>行标题2</th>
+  <td>行2，列1</td>
+  <td>行3，列2</td>
+</tr>
+<tr>
+  <th>行标题3</th>
+  <td>行3，列1</td>
+  <td>行3，列2</td>
+</tr>
+</table>
